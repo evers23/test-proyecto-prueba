@@ -1,0 +1,45 @@
+h2 { 
+    background-color: blue;
+
+}
+
+#Interview {
+
+    background-color: aqua;
+}
+.tile {
+    width: 170px;
+    height: 140px;
+    margin: 5px;
+    padding: 20px;
+
+    background-color: magenta;
+    float: left;
+}
+
+/*background colors for the tiles */
+
+.green {
+    background-color: #1382A3;
+}
+.red {
+    background-color: #f16f51;
+}
+.yellow {
+    background-color: #fdb45c;
+}
+.lightgrey{
+    background-color: #f6f6f6;
+    color: black;
+}
+.city-img {  
+    background-image: src ="santiago.png";
+}
+
+
+#main-container{
+   max-width: 900px;
+   min-width: 500px;
+   margin: 0 auto;
+
+}
